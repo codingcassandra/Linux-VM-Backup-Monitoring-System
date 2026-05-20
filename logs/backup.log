@@ -1,0 +1,482 @@
+[2026-05-15_23-18-04] Starting backup...
+sending incremental file list
+testdata/
+testdata/aws.txt
+testdata/resume.txt
+testdata/taxes.txt
+
+sent 338 bytes  received 77 bytes  830.00 bytes/sec
+total size is 27  speedup is 0.07
+[2026-05-15_23-19-32] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-19-32] Backup Completed
+___________________________
+[2026-05-15_23-26-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-26-01] Backup Completed
+___________________________
+[2026-05-15_23-28-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-28-01] Backup Completed
+___________________________
+[2026-05-15_23-30-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-30-01] Backup Completed
+___________________________
+[2026-05-15_23-32-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-32-01] Backup Completed
+___________________________
+[2026-05-15_23-34-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-34-01] Backup Completed
+___________________________
+[2026-05-15_23-36-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-36-01] Backup Completed
+___________________________
+[2026-05-15_23-38-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-38-01] Backup Completed
+___________________________
+[2026-05-15_23-40-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-40-01] Backup Completed
+___________________________
+[2026-05-15_23-42-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-42-01] Backup Completed
+___________________________
+[2026-05-15_23-44-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-44-01] Backup Completed
+___________________________
+[2026-05-15_23-46-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-46-01] Backup Completed
+___________________________
+[2026-05-15_23-48-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-48-01] Backup Completed
+___________________________
+[2026-05-15_23-50-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-50-01] Backup Completed
+___________________________
+[2026-05-15_23-52-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-52-01] Backup Completed
+___________________________
+[2026-05-15_23-54-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-54-01] Backup Completed
+___________________________
+[2026-05-15_23-56-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-56-01] Backup Completed
+___________________________
+[2026-05-15_23-58-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-15_23-58-01] Backup Completed
+___________________________
+[2026-05-16_00-00-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-00-01] Backup Completed
+___________________________
+[2026-05-16_00-02-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-02-01] Backup Completed
+___________________________
+[2026-05-16_00-04-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-04-01] Backup Completed
+___________________________
+[2026-05-16_00-06-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-06-01] Backup Completed
+___________________________
+[2026-05-16_00-08-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-08-01] Backup Completed
+___________________________
+[2026-05-16_00-10-02] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-10-02] Backup Completed
+___________________________
+[2026-05-16_00-12-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-12-01] Backup Completed
+___________________________
+[2026-05-16_00-14-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-14-01] Backup Completed
+___________________________
+[2026-05-16_00-16-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-16-01] Backup Completed
+___________________________
+[2026-05-16_00-18-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-18-01] Backup Completed
+___________________________
+[2026-05-16_00-20-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-20-01] Backup Completed
+___________________________
+[2026-05-16_00-22-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-22-01] Backup Completed
+___________________________
+[2026-05-16_00-24-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-24-01] Backup Completed
+___________________________
+[2026-05-16_00-26-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-26-01] Backup Completed
+___________________________
+[2026-05-16_00-28-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-28-01] Backup Completed
+___________________________
+[2026-05-16_00-30-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-30-01] Backup Completed
+___________________________
+[2026-05-16_00-32-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-32-01] Backup Completed
+___________________________
+[2026-05-16_00-34-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-34-01] Backup Completed
+___________________________
+[2026-05-16_00-36-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-36-01] Backup Completed
+___________________________
+[2026-05-16_00-38-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-38-01] Backup Completed
+___________________________
+[2026-05-16_00-40-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-40-01] Backup Completed
+___________________________
+[2026-05-16_00-42-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-42-01] Backup Completed
+___________________________
+[2026-05-16_00-44-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-44-01] Backup Completed
+___________________________
+[2026-05-16_00-46-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-46-01] Backup Completed
+___________________________
+[2026-05-16_00-48-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-48-01] Backup Completed
+___________________________
+[2026-05-16_00-50-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-50-01] Backup Completed
+___________________________
+[2026-05-16_00-52-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-52-01] Backup Completed
+___________________________
+[2026-05-16_00-54-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-54-01] Backup Completed
+___________________________
+[2026-05-16_00-56-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-56-01] Backup Completed
+___________________________
+[2026-05-16_00-58-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_00-58-01] Backup Completed
+___________________________
+[2026-05-16_01-00-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_01-00-01] Backup Completed
+___________________________
+[2026-05-16_01-02-02] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_01-02-02] Backup Completed
+___________________________
+[2026-05-16_01-04-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_01-04-01] Backup Completed
+___________________________
+[2026-05-16_05-50-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_05-50-01] Backup Completed
+___________________________
+[2026-05-16_05-52-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_05-52-01] Backup Completed
+___________________________
+[2026-05-16_05-54-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_05-54-01] Backup Completed
+___________________________
+[2026-05-16_05-56-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_05-56-01] Backup Completed
+___________________________
+[2026-05-16_05-58-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_05-58-01] Backup Completed
+___________________________
+[2026-05-16_06-00-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-00-01] Backup Completed
+___________________________
+[2026-05-16_06-02-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-02-01] Backup Completed
+___________________________
+[2026-05-16_06-04-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-04-01] Backup Completed
+___________________________
+[2026-05-16_06-06-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-06-01] Backup Completed
+___________________________
+[2026-05-16_06-08-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-08-01] Backup Completed
+___________________________
+[2026-05-16_06-10-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-10-01] Backup Completed
+___________________________
+[2026-05-16_06-12-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-12-01] Backup Completed
+___________________________
+[2026-05-16_06-14-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  128.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-14-01] Backup Completed
+___________________________
+[2026-05-16_06-16-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-16-01] Backup Completed
+___________________________
+[2026-05-16_06-18-01] Starting backup...
+sending incremental file list
+
+sent 175 bytes  received 17 bytes  384.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-18-01] Backup Completed
+[2026-05-16_06-20-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-16_06-20-01] Backup Completed
+[2026-05-20_04-08-01] Starting backup...
+sending incremental file list
+
+sent 179 bytes  received 17 bytes  392.00 bytes/sec
+total size is 27  speedup is 0.14
+[2026-05-20_04-08-01] Backup Completed
